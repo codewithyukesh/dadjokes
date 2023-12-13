@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: skyblue;
+}
+
+.container {
+    
+    align-self: center;
+    text-align: center;
+    margin: 2rem;
+    padding: 2rem;
+    background-color: white;
+    width: auto;
+    border-radius: 2rem;
+}
+
+h3 {
+    padding: 2rem;
+    font-size: 2rem;
+    background-color: transparent;
+}
+
+.joke{
+    font-size: 1.5rem;
+    /* text-align: justify; */
+    background-color: transparent;
+}
+
+button{
+    /* padding: 2rem; */
+    margin: 3rem;
+    font-size: 2rem;
+    padding: 2rem;
+    background-color: yellow;
+    color: black;
+    border: none;
+}
